@@ -14,7 +14,7 @@ $(document).ready(function () {
         },
         {
             nombre: "Ortodoncia",
-            imagen: "images/ortodoncia.jpeg"
+            imagen: "images/Ortodoncia.jpeg"
         },
         {
             nombre: "Implantes dentales",
